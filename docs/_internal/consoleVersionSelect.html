@@ -1,0 +1,22 @@
+<table id="modeltable" class="modeltable">
+  <thead>
+    <th><div align="center">Quest 3</div></th>
+    <th><div align="center">Quest 3s</div></th>
+  </thead>
+  <tbody>
+    <td> <img class="tableimage" src="/images/quest3.png" alt="quest 3"><br><br><input type="radio" name="checkbox" id="quest3"></td>
+    <td> <img class="tableimage" src="/images/quest3s.png" alt="quest 3s"><br><br><input type="radio" name="checkbox" id="quest3s"></td>
+  </tbody>
+</table>
+<div id="selectversion" class="selectversion">
+    <br>
+    <input type="text" id="versioninput" placeholder="Paste Incremental Version">
+    <br>
+    <input type="button" onclick="redirect()" value="Confirm">
+</div>
+
+<p id="result_noneSelected" style="display:none">{{ $frontmatter.noneSelected }}</p>
+<p id="result_invalidVersion" style="display:none">{{ $frontmatter.invalidVersion }}</p>
+<p id="result_methodUnavailable" style="display:none">{{ $frontmatter.methodUnavailable }}</p>
+
+<noscript>Please enable JavaScript to continue with the guide.</noscript>

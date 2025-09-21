@@ -1,0 +1,25 @@
+{
+    "title": "Quest Hacks Guide",
+    "description": "A complete guide to Meta rooting.",
+    "langMenuLabel": "Switch language",
+    "darkModeSwitchLabel": "Appearance",
+    "darkModeSwitchTitle": "Switch to dark theme",
+    "lightModeSwitchTitle": "Switch to light theme",
+    "sidebarMenuLabel": "Menu",
+    "returnToTopLabel": "Return to top",
+
+    "guide": "Guide",
+    "other": "Other",
+    "pages": {
+        "credits": "Credits",
+        "faq": "FAQ",
+        "finalizing-setup": "Finalizing Setup",
+        "get-started": "Get Started",
+        "installing-eventhorizon": "Installing Eventhorizon",
+        "key-information": "Key Information",
+        "multiple-options": "Multiple Options",
+        "privacy-policy": "Privacy Policy",
+        "site-navigation": "Site Navigation",
+        "troubleshooting": "Troubleshooting"
+    }
+}
